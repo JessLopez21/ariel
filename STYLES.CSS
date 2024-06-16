@@ -1,0 +1,56 @@
+/* Estilos para el header */
+.header {
+    background-color: #fa0202;
+    color: #0fca08;
+    padding: 20px;
+    text-align: center;
+}
+
+.titulo-header {
+    margin: 0;
+}
+
+/* Estilos para el menú */
+.menu {
+    background-color: #e92f2f;
+    padding: 20px;
+}
+
+.titulo {
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.titulo:hover {
+    color: #ff6600; /* Color al pasar el mouse */
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Estilos para el body */
+.body {
+    margin-top: 20px;
+}
+
+.apartado {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.apartado h2 {
+    margin-top: 0;
+}
